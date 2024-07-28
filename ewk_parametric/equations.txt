@@ -1,0 +1,4 @@
+﻿"glass_width" = 150
+"glass_height"= 100
+"glass_thickness"= 4
+"brood_space"= 42
