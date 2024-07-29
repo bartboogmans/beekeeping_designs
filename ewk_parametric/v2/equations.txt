@@ -1,0 +1,15 @@
+﻿"glass_width"= 150
+"glass_height"= 100
+"glass_thickness"= 4
+"brood_space"= 42
+"t1"= 6
+"t2"= 6
+"box_depth"= "brood_space" + "glass_thickness" + "glass_thickness" + "t2" + "t2"
+"box_width"= "glass_width" + "t1" + "t1"
+"food_height"= 70
+"box_height"= "glass_height" + ( "t1" * 3 ) + "food_height"
+"entry_height"= 24
+"entry_diameter"= 8
+"food_top_clearance"= 10
+"bar_width"= 20
+"glassblocker_lower_height"= 10"lower_edge_stickout"=6
