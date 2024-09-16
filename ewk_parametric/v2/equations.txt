@@ -1,6 +1,6 @@
-﻿"glass_width"= 150
-"glass_height"= 100
-"glass_thickness"= 4
+﻿"glass_width"= 181
+"glass_height"= 151
+"glass_thickness"= 2.5
 "brood_space"= 42
 "t1"= 6
 "t2"= 6
